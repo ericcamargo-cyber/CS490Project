@@ -1,0 +1,40 @@
+thinking about a splitscreen, reason is for next week 6/16/22 is filter froom question bank where you can add keyword
+
+DUE NEXT WEEK FOR USE CASE 1:
+
+topic													
+difficulty
+question text (only one kind of question)
+two test cases (later add up to more; calls of the function with different numbers)
+submit
+
+USE CASE 2:
+
+
+
+difficulty											search ability for list of Qs
+question text (only one kind of question)
+two test cases (later add up to more; calls of the function with different numbers, point value for each question)
+submit													submit
+
+USE CASE 3:
+point value for each question and display it
+
+USE CASE 4:
+autograder
+teacher can autograde 
+he wants to see a table of results for each question explaining, 3 checks 
+comment for each question, one per table
+results should be in the penultimate column where you can override the grades, change the grades
+*never going to ask you to modify the final grade, only the line items*
+wants a separate column for initial grade.
+
+USE CASE 5:
+showing the student, show them the final value and original "more information is better"
+
+
+
+
+
+
+duplicate this code topic difficulty keyword filters to search for topics, minimap to show questions that your on and show whcih question that your on (linked list?)
